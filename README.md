@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://upbeat-almeida-bf7c3a.netlify.app">
+    <a href="https://ameeeek.github.io/InputComponent/">
       Demo
     </a>
    <span> | <span>
-      <a href="https://devchallenges.io/solutions/jHNgx5wPYz8UkqSLTCyP">
+      <a href="https://devchallenges.io/solutions/FnyF8CK1GGdJVUw9i4fe">
          solution
       </a>
    <span> | <span>
-    <a href="https://github.com/Ameeeek/button-component">
+    <a href="https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp">
       Challenge
     </a>
   </h3>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-<img src='Opera Snapshot_2021-10-30_182337_upbeat-almeida-bf7c3a.netlify.app.png'>
+<img src='Opera-Snapshot_2021-10-30_182337_upbeat-almeida-bf7c3a.netlify.app.png'>
 
 
 
