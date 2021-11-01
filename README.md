@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">MY GALLERY</h1>
+<h1 align="center">Input component</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -36,7 +36,7 @@
 
 ## Overview
 
-<img src='Opera-Snapshot_2021-10-30_182337_upbeat-almeida-bf7c3a.netlify.app.png'>
+<img src='Opera-Snapshot_2021-11-01_192701_127.0.0.1.png'>
 
 
 
